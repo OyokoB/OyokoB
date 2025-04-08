@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📫 How to Reach Me
 
-- **Email**: [oyokookonyo@gmail.com)(mailto:oyokookonyo@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/oyokob](https://www.linkedin.com/in/oyokob)]
+- **Email**: [oyokookonyo@gmail.com](mailto:oyokookonyo@gmail.com)
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/oyokob)
 
 ## ⚡ Fun Fact
 
