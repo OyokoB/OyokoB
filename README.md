@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ![Benard Oyoko's GitHub stats]
 
-## 🏆 GitHub Trophies
+## 🅿️ Top Projects
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Nicholas-Kipkoech&theme=onedark)
+![Projects]()
 
 ## 📊 Top Languages
 
