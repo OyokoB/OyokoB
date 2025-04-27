@@ -25,8 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📫 How to Reach Me
 
-- **Email**: [oyokookonyo@gmail.com](mailto:oyokookonyo@gmail.com)
-- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/oyokob)
+- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oyokob)
+- [![Email](https://skillicons.dev/icons?i=gmail)](mailto:oyokookonyo@gmail.com)
+
 
 ## ⚡ Fun Fact
 
@@ -35,15 +36,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📈 GitHub Stats
 
-![Benard Oyoko's GitHub stats]
+
 
 ## 🅿️ Top Projects
 
 ![Projects]()
 
-## 📊 Top Languages
+## 📊 My Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Kipkoech&layout=compact&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,nodejs)](https://skillicons.dev)
 
 ## 🤝 Let's Connect
 
